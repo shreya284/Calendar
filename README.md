@@ -58,12 +58,13 @@ h1{
     letter-spacing: 1px;
 }
 </style>
+
 <body>
 <h1>Calendar for 2021</h1>
 <div class="container">
-<div class="scroll">
-
-<div class="month">
+<div class="scroll">   
+     
+  <div class="month">
        <strong> January </strong>
        <br>
        <strong> 2021 </strong>
@@ -133,8 +134,8 @@ h1{
        </tr>
        </table>
 </div>
-
-<div class="month">
+     
+   <div class="month">
        <strong> February </strong>
        <br>
        <strong> 2021 </strong>
@@ -195,8 +196,8 @@ h1{
        </tr>
        </table>
 </div>
-
-<div class="month">
+     
+ <div class="month">
        <strong> March </strong>
        <br>
        <strong> 2021 </strong>
@@ -256,8 +257,8 @@ h1{
            <td></td>
        </tr>
        </table>
-</div>
-
+</div>  
+     
 <div class="month">
        <strong> April </strong>
        <br>
@@ -319,8 +320,8 @@ h1{
        </tr>
        </table>
 </div>
-
-<div class="month">
+     
+ <div class="month">
        <strong> May </strong>
        <br>
        <strong> 2021 </strong>
@@ -390,8 +391,8 @@ h1{
        </tr>
        </table>
 </div>
-
-<div class="month">
+     
+   <div class="month">
        <strong> June </strong>
        <br>
        <strong> 2021 </strong>
@@ -452,7 +453,7 @@ h1{
        </tr>
        </table>
 </div>
-
+     
 <div class="month">
        <strong> July </strong>
        <br>
@@ -575,9 +576,9 @@ h1{
            <td></td>
        </tr>
        </table>
-</div>
-
-<div class="month">
+</div>     
+     
+    <div class="month">
        <strong> September </strong>
        <br>
        <strong> 2021 </strong>
@@ -707,8 +708,8 @@ h1{
            <td></td>
        </tr>
        </table>
-</div>
-
+</div> 
+     
 <div class="month">
        <strong> November </strong>
        <br>
@@ -831,8 +832,105 @@ h1{
        </tr>
        </table>
 </div>
-
 </div>
 </div>
 </body>
-</html>
+</html>     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
